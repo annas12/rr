@@ -701,70 +701,70 @@ export const ramadhanQuestions: Question[] = [
     reference: "Sunan Abu Dawud"
   },
   {
-  id: '+',
+  id: 100,
   title: "Waktu Niat Puasa Ramadhan",
   question: "Kapan waktu niat puasa Ramadhan yang sah?",
   answer: "Niat puasa Ramadhan harus dilakukan pada malam hari sebelum terbit fajar.",
   reference: "Sunan Abu Dawud no. 2454, Fathul Qarib"
 },
 {
-  id: '+',
+  id: 101,
   title: "Niat dalam Hati",
   question: "Apakah niat puasa harus diucapkan dengan lisan?",
   answer: "Tidak wajib diucapkan, karena niat tempatnya di dalam hati.",
   reference: "Al-Majmu’ Syarh al-Muhadzdzab karya Imam Nawawi"
 },
 {
-  id: 3,
+  id: 103,
   title: "Niat Puasa Setelah Subuh",
   question: "Apakah sah niat puasa Ramadhan setelah waktu Subuh?",
   answer: "Tidak sah, karena puasa wajib harus diniatkan sebelum fajar.",
   reference: "Tuhfatul Muhtaj juz 3 hal. 384"
 },
 {
-  id: 4,
+  id: 104,
   title: "Niat Puasa karena Lupa",
   question: "Bagaimana hukum puasa jika lupa niat di malam hari?",
   answer: "Puasa tidak sah dan wajib diqadha.",
   reference: "Bughyatul Mustarsyidin hal. 107"
 },
 {
-  id: 5,
+  id: 105,
   title: "Niat Sekali untuk Sebulan",
   question: "Apakah boleh niat puasa Ramadhan satu kali untuk satu bulan?",
   answer: "Menurut mazhab Maliki boleh, namun menurut Syafi’i harus setiap malam.",
   reference: "Bidayatul Mujtahid juz 1 hal. 303"
 },
 {
-  id: 6,
+  id: 106,
   title: "Niat Puasa dan Sahur",
   question: "Apakah sahur otomatis dianggap sebagai niat puasa?",
   answer: "Sahur dapat dianggap niat jika diiringi kesadaran puasa keesokan harinya.",
   reference: "I’anah ath-Thalibin juz 2 hal. 223"
 },
 {
-  id: 7,
+  id: 107,
   title: "Niat Puasa Qadha",
   question: "Apakah niat puasa qadha sama dengan niat puasa Ramadhan?",
   answer: "Berbeda, karena harus menyebut puasa qadha dalam niatnya.",
   reference: "Fathul Mu’in hal. 249"
 },
 {
-  id: 8,
+  id: 108,
   title: "Niat Puasa Sunnah",
   question: "Kapan waktu niat puasa sunnah?",
   answer: "Boleh diniatkan di siang hari selama belum melakukan pembatal puasa.",
   reference: "HR. Muslim no. 1154"
 },
 {
-  id: 9,
+  id: 109,
   title: "Niat Puasa Anak-anak",
   question: "Apakah anak-anak wajib niat puasa?",
   answer: "Tidak wajib karena belum baligh, namun dianjurkan sebagai latihan.",
   reference: "Fathul Qarib hal. 72"
 },
 {
-  id: 10,
+  id: 200,
   title: "Kesalahan Lafal Niat",
   question: "Apakah salah lafadz niat mempengaruhi sahnya puasa?",
   answer: "Tidak berpengaruh selama niat di dalam hati sudah benar.",
