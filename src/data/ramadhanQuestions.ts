@@ -701,35 +701,35 @@ export const ramadhanQuestions: Question[] = [
     reference: "Sunan Abu Dawud"
   },
   {
-  id: +,
+  id: '+',
   title: "Waktu Niat Puasa Ramadhan",
   question: "Kapan waktu niat puasa Ramadhan yang sah?",
   answer: "Niat puasa Ramadhan harus dilakukan pada malam hari sebelum terbit fajar.",
   reference: "Sunan Abu Dawud no. 2454, Fathul Qarib"
 },
 {
-  id: +,
+  id: '+',
   title: "Niat dalam Hati",
   question: "Apakah niat puasa harus diucapkan dengan lisan?",
   answer: "Tidak wajib diucapkan, karena niat tempatnya di dalam hati.",
   reference: "Al-Majmu’ Syarh al-Muhadzdzab karya Imam Nawawi"
 },
 {
-  id: +,
+  id: 3,
   title: "Niat Puasa Setelah Subuh",
   question: "Apakah sah niat puasa Ramadhan setelah waktu Subuh?",
   answer: "Tidak sah, karena puasa wajib harus diniatkan sebelum fajar.",
   reference: "Tuhfatul Muhtaj juz 3 hal. 384"
 },
 {
-  id: +,
+  id: 4,
   title: "Niat Puasa karena Lupa",
   question: "Bagaimana hukum puasa jika lupa niat di malam hari?",
   answer: "Puasa tidak sah dan wajib diqadha.",
   reference: "Bughyatul Mustarsyidin hal. 107"
 },
 {
-  id: +,
+  id: 5,
   title: "Niat Sekali untuk Sebulan",
   question: "Apakah boleh niat puasa Ramadhan satu kali untuk satu bulan?",
   answer: "Menurut mazhab Maliki boleh, namun menurut Syafi’i harus setiap malam.",
