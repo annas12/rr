@@ -773,11 +773,10 @@ export const ramadhanQuestions: Question[] = [
   reference: "Al-Majmu’ Imam Nawawi",
 },
 {
-  id: 200,
+  id: 110,
   title: "Kesalahan Lafal Niat",
   question: "Apakah salah lafadz niat mempengaruhi sahnya puasa?",
   answer: "Tidak berpengaruh selama niat di dalam hati sudah benar.",
   reference: "Al-Majmu’ Imam Nawawi"
 }
-
 ];
